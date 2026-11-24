@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi, I'm Chepngenoh 👋
+## Data scientist portfolio coming soon.
 
 <!--
 **chepngenohc/ChepngenohC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
